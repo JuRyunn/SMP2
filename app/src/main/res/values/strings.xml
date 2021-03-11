@@ -1,7 +1,7 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string name="app_name">SMP</string>
     <string name="Hello">201621201 성주현</string>
-    <string name="greeting">"Hello 201621201 성주현 "</string>
+    <string name="greeting">"Hello 201621201 성주현??? "</string>
 
 
 </resources>
